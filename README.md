@@ -2,8 +2,8 @@
 
 Make an git respository for this course
 
-my sid = 1111
-my name =
+my sid = C110164110
+my name = 許正祐
 
 ## terminal
 
